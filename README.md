@@ -27,8 +27,8 @@ This PHP code implements a rate limiting feature to prevent users from making to
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/yourusername/phpratelimiter.git
-    cd phpratelimiter
+    git clone https://github.com/wpuprise/php-redis-rate-limiter.git
+    cd php-redis-rate-limiter
     ```
 
 2. **Install Redis:**
